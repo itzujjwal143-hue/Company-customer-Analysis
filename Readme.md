@@ -174,7 +174,8 @@ The data model enables analysis of transactions based on customer demographics, 
 # 📸 Dashboard Preview
 
 ### Page 1 — Customer & Sales Overview
-![Uploading Screenshot 2026-10-02 111450.png…]()
+<img width="960" height="540" alt="Screenshot 2026-10-02 111450" src="https://github.com/user-attachments/assets/567ed525-75a2-48e4-a403-2063a76e010f" />
+
 
 
 ```text
